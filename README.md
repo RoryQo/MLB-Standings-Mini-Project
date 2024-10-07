@@ -60,6 +60,8 @@ Residual plots and normal probability plots are created to assess model assumpti
 
 A Shapiro-Wilk test is conducted to check for normality of jackknife residuals.
 
+<img src="https://github.com/RoryQo/MLB-Standings-Mini-Project/blob/main/Graph4.jpg?raw=true" alt="Graph 4" width="200"/>
+
 ### Cook's Distance and Leverage Points
 
 Cook's distance values are calculated and plotted to identify influential points and assess leverage in the dataset.
