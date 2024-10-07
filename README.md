@@ -58,6 +58,9 @@ A Shapiro-Wilk test is conducted to check for normality of jackknife residuals.
 
 Cook's distance values are calculated and plotted to identify influential points and assess leverage in the dataset.
 
+<img src="https://github.com/RoryQo/MLB-Standings-Mini-Project/blob/main/Graph1.jpg?raw=true" alt="MLB Standings Analysis" width="400"/>
+
+
 ### Model Refinement
 
 Influential points are removed, and the model is refitted using the remaining data to improve accuracy and robustness.
