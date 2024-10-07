@@ -20,7 +20,7 @@
 
 ## Overview
 
-This repository contains a comprehensive analysis of Major League Baseball (MLB) standings using a dataset that includes runs scored, runs allowed, and wins. The primary aim is to predict the number of wins for an MLB team based on the runs scored and runs allowed. This analysis thoroughly checks model assumptions, assesses residuals, and identifies leverage points to ensure the robustness and accuracy of the linear regression model.
+This repository contains a comprehensive analysis of Major League Baseball (MLB) standings using a dataset that includes runs scored, runs allowed, and wins from the years 2019 to 2022. The primary aim is to predict the number of wins for an MLB team based on the runs scored and runs allowed. This analysis thoroughly checks model assumptions, assesses residuals, and identifies leverage points to ensure the robustness and accuracy of the linear regression model.
 
 ## Data Exploration
 
