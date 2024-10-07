@@ -62,6 +62,13 @@ Cook's distance values are calculated and plotted to identify influential points
 
 Influential points are removed, and the model is refitted using the remaining data to improve accuracy and robustness.
 
+```{r}
+mlb$inf_pt = ifelse(mlb$cook > 4/90, 1, 0)
+s = mlb[which(mlb$inf_pt == 0), ]
+model2 = lm(wins ~ scored + allowed, data = s)
+summary(model2)
+```
+
 ## Conclusion
 
 This analysis provides insights into the relationships between runs scored, runs allowed, and wins in MLB standings. It thoroughly checks model assumptions and addresses leverage points, making it a solid foundation for further predictive modeling or in-depth analysis.
