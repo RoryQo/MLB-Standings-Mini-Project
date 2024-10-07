@@ -36,6 +36,12 @@ Histograms are created to visualize the distribution of key variables, such as r
 
 Scatterplots are generated to explore relationships between runs scored, runs allowed, and wins.
 
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github.com/RoryQo/MLB-Standings-Mini-Project/blob/main/graph2.jpg?raw=true" alt="Graph 2" width="400"/>
+    <img src="https://github.com/RoryQo/MLB-Standings-Mini-Project/blob/main/Graph3.jpg?raw=true" alt="Graph 3" width="400"/>
+</div>
+
+
 ## Model Fitting
 
 ### Linear Regression Model
