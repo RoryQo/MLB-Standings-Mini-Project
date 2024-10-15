@@ -1,7 +1,7 @@
 # MLB-Standings-Mini-Project
 
 ## Table of Contents
-
+ 
 - [Overview](#overview)
 - [Data Exploration](#data-exploration)
   - [Reading in Data](#reading-in-data)
