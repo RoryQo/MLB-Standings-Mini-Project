@@ -2,7 +2,7 @@
  
 ## Table of Contents
  
-- [Overview](#overview)
+- [Overview](#overview) 
 - [Data Exploration](#data-exploration)
   - [Reading in Data](#reading-in-data)
   - [Visualizing Distributions](#visualizing-distributions)
