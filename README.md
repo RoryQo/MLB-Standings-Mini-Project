@@ -1,5 +1,5 @@
 # MLB-Standings-Mini-Project 
-  
+   
 ## Table of Contents
  
 - [Overview](#overview) 
