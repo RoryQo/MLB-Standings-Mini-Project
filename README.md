@@ -1,4 +1,4 @@
-# MLB-Standings-Mini-Project 
+# MLB-Standings-Mini-Project  
    
 ## Table of Contents
  
